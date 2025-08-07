@@ -3,8 +3,7 @@ function addNumbers() {
   const b = 1;
 
   let result;
-
-  result = "a" + "b"; // <------ EDIT THIS LINE
+  result = a + b; // <------ EDIT THIS LINE
 
   return result;
 }
